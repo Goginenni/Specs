@@ -25,4 +25,8 @@
   },
   "frameworks": "CFNetwork",
   "requires_arc": false
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d7e0f6687a34663ad2359f40cfcdae609eeff050
